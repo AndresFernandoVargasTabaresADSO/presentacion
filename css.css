@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+.logo img{
+    padding: 40px;
+}
+
+.header__superior{
+    width: 50%;
+    max-width: 1200px;
+    justify-content: space-between;
+    display: flex;
+    height: 1000px;
+    background-color: blue;
+}
+
+.conteiner__menu{
+    max-width: 1200px;
+    float: right;
+    padding: 40px;
+    margin-top: 0;
+}
+
+nav > ul{
+    display: flex;
+}
+
+nav > ul > li{
+    margin: 20px;
+}
+
+.logo2 img{
+    width: 500px;
+    margin: 300px 0px 0px 0px;
+}
